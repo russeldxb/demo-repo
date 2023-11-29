@@ -1,4 +1,9 @@
 # Learning git & github
 
+Some description!
 
-Sample text!
+## subheader
+
+Watch tutorial on youtube.
+
+
